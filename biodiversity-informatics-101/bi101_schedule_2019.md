@@ -15,7 +15,7 @@
 | | | 30 MINUTE BREAK | | |
 | 11:00 | 10 min | **DATA:** Aggregators | [_add title_](insert_link) | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
 | 11:10 | 10 min | **DATA:** Policies for Sharing | [_add title_](insert_link) | [Brenda Daly](https://orcid.org/0000-0002-3732-8339) |
-| 11:20 | 10 min | **DATA:** All Things Wiki | [_add title_](insert_link) | Matthias Dillen |
+| 11:20 | 10 min | **DATA:** All Things Wiki | [_add title_](insert_link) | [Matthias Dillen](https://orcid.org/0000-0002-3973-1252) |
 | 11:30 | 10 min | **DATA:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.quf0g091e9ez) | |
 | 11:40 | 5 min | **TOOLS:** Overview | [_add title_](insert_link) | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 11:45 | 45 min | **TOOLS:** Demo Fair | | |
