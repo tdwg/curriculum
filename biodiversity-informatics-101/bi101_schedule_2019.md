@@ -29,7 +29,7 @@
 | | | | _Georeferencing Tools & Techniques_ | [Fhatani Ranwashe](https://orcid.org/0000-0003-0466-4085), [Erica Krimmel](https://orcid.org/0000-0003-3192-0080) |
 | | | 60 MINUTE LUNCH | | |
 | 13:30 | 10 min | **COMMUNITY:** Overview | [_add title_](insert_link) | [Henry Engledow](https://orcid.org/0000-0002-0779-8006) |
-| 13:40 | 10 min | **COMMUNITY:** | [_add title_](insert_link) | [Florencia Grattarola](https://orcid.org/0000-0001-8282-5732) |
+| 13:40 | 10 min | **COMMUNITY:** Global South | [_add title_](insert_link) | [Florencia Grattarola](https://orcid.org/0000-0001-8282-5732) |
 | 13:50 | 10 min | **COMMUNITY:** Eco Ed | [_add title_](insert_link) | Chantal Hujbers |
 | 14:00 | 5 min | **COMMUNITY:** GBIF BID | [_add title_](insert_link) | [TBD](insert_orcid_link) |
 | 14:05 | 5 min | **COMMUNITY:** NEON | [_add title_](insert_link) | [Christine Laney](https://orcid.org/0000-0002-4944-2083), [Kate Thibault](https://orcid.org/0000-0003-3477-6424) |
