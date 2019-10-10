@@ -30,7 +30,7 @@
 | | | 60 MINUTE LUNCH | | |
 | 13:30 | 10 min | **COMMUNITY:** Overview | [_add title_](insert_link) | [Henry Engledow](https://orcid.org/0000-0002-0779-8006) |
 | 13:40 | 10 min | **COMMUNITY:** Global South | [_add title_](insert_link) | [Florencia Grattarola](https://orcid.org/0000-0001-8282-5732) |
-| 13:50 | 10 min | **COMMUNITY:** Eco Ed | [_add title_](insert_link) | Chantal Hujbers |
+| 13:50 | 10 min | **COMMUNITY:** Eco Ed | [_add title_](insert_link) | [Chantal Huijbers](https://orcid.org/0000-0001-5206-3415) |
 | 14:00 | 5 min | **COMMUNITY:** GBIF BID | [_add title_](insert_link) | [TBD](insert_orcid_link) |
 | 14:05 | 5 min | **COMMUNITY:** NEON | [_add title_](insert_link) | [Christine Laney](https://orcid.org/0000-0002-4944-2083), [Kate Thibault](https://orcid.org/0000-0003-3477-6424) |
 | 14:10 | 5 min | **COMMUNITY:** Citizen Science | [_add title_](insert_link) | [Sofie Meeus](https://orcid.org/0000-0003-0715-8647) |
