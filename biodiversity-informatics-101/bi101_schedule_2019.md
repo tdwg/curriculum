@@ -27,7 +27,7 @@
 | | | | _Exploring Data in Aggregators via Portals_ | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
 | | | | _Biodiversity and Climate Change Virtual Lab (ecocloud)_ | Sarah Richmond |
 | | | | _Georeferencing Tools & Techniques_ | [Fhatani Ranwashe](https://orcid.org/0000-0003-0466-4085), [Erica Krimmel](https://orcid.org/0000-0003-3192-0080) |
-| | | | _Biodiversity Data Library (BHL)_ | David Iggulden |
+| | | | _Biodiversity Data Library (BHL)_ |  |
 | 12:30 | 60 min | 60 MINUTE LUNCH | | |
 | 13:30 | 10 min | **COMMUNITY:** Overview | [_add title_](insert_link) | [Henry Engledow](https://orcid.org/0000-0002-0779-8006) |
 | 13:40 | 10 min | **COMMUNITY:** Global South | [_add title_](insert_link) | [Florencia Grattarola](https://orcid.org/0000-0001-8282-5732) |
@@ -35,7 +35,7 @@
 | 14:00 | 5 min | **COMMUNITY:** GBIF BID | [_add title_](insert_link) | Sabastian Wirsiy Yunkavi |
 | 14:05 | 5 min | **COMMUNITY:** NEON | [_add title_](insert_link) | [Christine Laney](https://orcid.org/0000-0002-4944-2083), [Kate Thibault](https://orcid.org/0000-0003-3477-6424) |
 | 14:10 | 5 min | **COMMUNITY:** Citizen Science | [_add title_](insert_link) | [Sofie Meeus](https://orcid.org/0000-0003-0715-8647) |
-| 14:15 | 5 min | **COMMUNITY:** BHL | [_add title_](insert_link) | David Iggulden |
+| 14:15 | 5 min | **COMMUNITY:** BHL | [_add title_](insert_link) |  |
 | 14:20 | 10 min | **COMMUNITY:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.brzmloq710jg) | |
 | 14:30 | 10 min | **COMMUNITY:** Organizing Brainstorming | [_add title_](insert_link) | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 14:40 | 20 min | **COMMUNITY:** Unconference | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.awela4svc1qv) | |
