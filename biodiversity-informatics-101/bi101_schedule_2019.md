@@ -37,8 +37,8 @@
 | 14:10 | 5 min | **COMMUNITY:** Citizen Science | [_add title_](insert_link) | [Sofie Meeus](https://orcid.org/0000-0003-0715-8647) |
 | 14:15 | 5 min | **COMMUNITY:** BHL | [_add title_](insert_link) | David Iggulden |
 | 14:20 | 10 min | **COMMUNITY:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.brzmloq710jg) | |
-| 14:30 | 10 min | **COMMUNITY:** Organizing Brainstorming | [_add title_](insert_link) | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
-| 14:40 | 20 min | **COMMUNITY:** Unconference | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.awela4svc1qv) | |
+| 14:30 | 5 min | **COMMUNITY:** Community Building and Unconferences | [_add title_](insert_link) | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
+| 14:35 | 25 min | **COMMUNITY:** Unconference | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.awela4svc1qv) | |
 | 15:00 | 30 min | 30 MINUTE BREAK | | |
 | 15:30 | 10 min | **CHALLENGES & INNOVATIONS:** Overview | [_add title_](insert_link) | [Matt Yoder](https://orcid.org/0000-0002-5640-5491) |
 | 15:40 | 10 min | **CHALLENGES & INNOVATIONS:** Machine Learning and Automation | [_add title_](insert_link) | [Matt Woodburn](https://orcid.org/0000-0001-6496-1423), [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
