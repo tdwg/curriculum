@@ -42,7 +42,7 @@
 | 15:00 | 30 min | 30 MINUTE BREAK | | |
 | 15:30 | 10 min | **CHALLENGES & INNOVATIONS:** Overview | [_add title_](insert_link) | [Matt Yoder](https://orcid.org/0000-0002-5640-5491) |
 | 15:40 | 10 min | **CHALLENGES & INNOVATIONS:** Machine Learning and Automation | [_add title_](insert_link) | [Matt Woodburn](https://orcid.org/0000-0001-6496-1423), [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
-| 15:50 | 10 min | **CHALLENGES & INNOVATIONS:** ? | [_add title_](insert_link) | [Mark Hereld](https://orcid.org/0000-0002-0268-2880) |
+| 15:50 | 10 min | **CHALLENGES & INNOVATIONS:** An Engineer's Point of View | [_add title_](insert_link) | [Mark Hereld](https://orcid.org/0000-0002-0268-2880) |
 | 16:00 | 10 min | **CHALLENGES & INNOVATIONS:** Semantic Technologies | [_add title_](insert_link) | [Takeru Nakazato](https://orcid.org/0000-0002-0706-2867) |
 | 16:10 | 10 min | **CHALLENGES & INNOVATIONS:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.czw1btq7lur3) | |
 | 16:20 | 10 min | **CHALLENGES & INNOVATIONS:** Discussion | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.6x03livu4fcf) | |
