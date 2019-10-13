@@ -1,12 +1,20 @@
 ## Biodiversity Informatics 101 Workshop Abstract
 More and more biodiversity data are coming online everyday and give all of us new opportunities to engage whether it is through data mobilization, data use in research and education, software design, policy development, etc. Exciting projects, programs, and new methods too, expand on what we can and will be able to do with these data. But, getting started and keeping up with trends and activities in biodiversity informatics can be overwhelming. Biodiversity Informatics 101 offers a fun, carefully curated event to help participants get started or expand and share their current experience with others. Topics covered result from a strategic review across the bio/geodiversity community. Focus will be on subjects critical to understanding of material to be presented at biodiversity_next, and crucial to an individual’s needs for interacting with biodiversity data and the relevant communities - no matter one’s role. Course content delivery will include, lecture, discussion, and hands-on sections. Expect a diverse audience designed to help us all share insights into the needs of our broader network and the expertise and opportunities available.  
 
+<!---<img src="https://github.com/ekrimmel/curriculum/blob/master/biodiversity-informatics-101/documents/ParticipantsByCountry2.png" width="500">-->
+
+![Participants By Country|1533x947,20%](https://github.com/ekrimmel/curriculum/blob/master/biodiversity-informatics-101/documents/ParticipantsByCountry2.png)
+
 The Conference Theme is **Building a global infrastructure for biodiversity data. Together.** Organizers Holly Little, Laura Russell, Deborah Paul, and Erica Krimmel welcome this unique opportunity to bring representatives from 30 countries together. Workshops like this are rare and give us all a chance to expand our capabilities to act local and global. We give thanks to each of our presenters and to all our participants for joining us as we embrace the concept of better data > better science > better policies.
 
 ### Logistics
 When: Monday 21 October 2019  
 Where: [Scheltema](https://www.google.nl/maps/place/Scheltema+Leiden/@52.1628419,4.4864591,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5c6ecebeccffd:0x97a9c419892e4e12!8m2!3d52.1628386!4d4.4886478)  
 Time: 9:00 - 17:00
+
+### Important Links
+[Presentations and Resources Folder](https://drive.google.com/drive/folders/13savu1CMfjNTc_XeNl_ZAEyEEsakJI4Y)
+<!---[Further Biodiv Issues Conversations](https://github.com/tdwg/curriculum/issues/5)-->
 
 ## Schedule for Biodiversity Informatics 101 Workshop
 ### _Biodiversity_Next, Leiden, 2019-10-21_
