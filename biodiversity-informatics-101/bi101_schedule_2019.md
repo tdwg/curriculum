@@ -13,8 +13,9 @@ Where: [Scheltema](https://www.google.nl/maps/place/Scheltema+Leiden/@52.1628419
 Time: 9:00 - 17:00
 
 ### Important Links
+[Biodiv 101 Group Notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit?usp=sharing)  
 [Presentations and Resources Folder](https://drive.google.com/drive/folders/13savu1CMfjNTc_XeNl_ZAEyEEsakJI4Y)  
-[Further Biodiv Informatics 101 Conversations](https://github.com/tdwg/curriculum/issues/5)
+[Further Biodiv Informatics 101 Conversations](https://github.com/tdwg/curriculum/issues/5)  
 <!---[Post Workshop Survey](http://bit.ly/biodiv101survey)-->
 
 ## Schedule for Biodiversity Informatics 101 Workshop
