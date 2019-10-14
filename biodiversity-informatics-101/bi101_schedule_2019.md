@@ -14,7 +14,7 @@ Time: 9:00 - 17:00
 
 ### Important Links
 [Presentations and Resources Folder](https://drive.google.com/drive/folders/13savu1CMfjNTc_XeNl_ZAEyEEsakJI4Y)
-<!---[Further Biodiv Issues Conversations](https://github.com/tdwg/curriculum/issues/5)-->
+[Further Biodiv Informatics 101 Conversations](https://github.com/tdwg/curriculum/issues/5)
 <!---[Post Workshop Survey](http://bit.ly/biodiv101)-->
 
 ## Schedule for Biodiversity Informatics 101 Workshop
