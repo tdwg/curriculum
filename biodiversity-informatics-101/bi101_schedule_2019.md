@@ -13,7 +13,7 @@ Where: [Scheltema](https://www.google.nl/maps/place/Scheltema+Leiden/@52.1628419
 Time: 9:00 - 17:00
 
 ### Important Links
-[Presentations and Resources Folder](https://drive.google.com/drive/folders/13savu1CMfjNTc_XeNl_ZAEyEEsakJI4Y)
+[Presentations and Resources Folder](https://drive.google.com/drive/folders/13savu1CMfjNTc_XeNl_ZAEyEEsakJI4Y)  
 [Further Biodiv Informatics 101 Conversations](https://github.com/tdwg/curriculum/issues/5)
 <!---[Post Workshop Survey](http://bit.ly/biodiv101)-->
 
