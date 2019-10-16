@@ -33,7 +33,7 @@ Time: 9:00 - 17:00
 | 10:10 | 5 min | **DATA:** Digitization/Media | [_add title_](insert_link) | [Matt Woodburn](https://orcid.org/0000-0001-6496-1423), [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
 | 10:15 | 15 min | **DATA:** Discussion | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.6tthbx37zmvx) | |
 | 10:30 | 30 min | 30 MINUTE BREAK | | |
-| 11:00 | 10 min | **DATA:** Aggregators | [_add title_](insert_link) | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
+| 11:00 | 10 min | **DATA:** Aggregators | Data Aggregators | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
 | 11:10 | 10 min | **DATA:** Policies for Sharing | [_add title_](insert_link) | [Brenda Daly](https://orcid.org/0000-0002-3732-8339) |
 | 11:20 | 10 min | **DATA:** All Things Wiki | [_add title_](insert_link) | [Matthias Dillen](https://orcid.org/0000-0002-3973-1252) |
 | 11:30 | 10 min | **DATA:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.quf0g091e9ez) | |
@@ -50,7 +50,7 @@ Time: 9:00 - 17:00
 | | | | _Biodiversity Data Library (BHL)_ |  |
 | 12:30 | 60 min | 60 MINUTE LUNCH | | |
 | 13:30 | 10 min | **COMMUNITY:** Overview | [_add title_](insert_link) | [Henry Engledow](https://orcid.org/0000-0002-0779-8006) |
-| 13:40 | 10 min | **COMMUNITY:** Global South | [_add title_](insert_link) | [Florencia Grattarola](https://orcid.org/0000-0001-8282-5732) |
+| 13:40 | 10 min | **COMMUNITY:** Global South | Biodiversity Data in Uruguay: A Long Way to Go | [Florencia Grattarola](https://orcid.org/0000-0001-8282-5732) |
 | 13:50 | 10 min | **COMMUNITY:** Eco Ed | [_add title_](insert_link) | [Chantal Huijbers](https://orcid.org/0000-0001-5206-3415) |
 | 14:00 | 5 min | **COMMUNITY:** GBIF BID | [_add title_](insert_link) | Sabastian Wirsiy Yunkavi |
 | 14:05 | 5 min | **COMMUNITY:** Observation Networks, NEON | [_add title_](insert_link) | [Christine Laney](https://orcid.org/0000-0002-4944-2083), [Kate Thibault](https://orcid.org/0000-0003-3477-6424) |
@@ -62,11 +62,11 @@ Time: 9:00 - 17:00
 | 15:00 | 30 min | 30 MINUTE BREAK | | |
 | 15:30 | 10 min | **CHALLENGES & INNOVATIONS:** Overview | [_add title_](insert_link) | [Matt Yoder](https://orcid.org/0000-0002-5640-5491) |
 | 15:40 | 10 min | **CHALLENGES & INNOVATIONS:** Machine Learning and Automation | [_add title_](insert_link) | [Matt Woodburn](https://orcid.org/0000-0001-6496-1423), [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
-| 15:50 | 10 min | **CHALLENGES & INNOVATIONS:** An Engineer's Point of View | [_add title_](insert_link) | [Mark Hereld](https://orcid.org/0000-0002-0268-2880) |
+| 15:50 | 10 min | **CHALLENGES & INNOVATIONS:** An Engineer's Point of View | Climbing Out of The Box: different thinking with examples | [Mark Hereld](https://orcid.org/0000-0002-0268-2880) |
 | 16:00 | 10 min | **CHALLENGES & INNOVATIONS:** Semantic Technologies | [_add title_](insert_link) | [Takeru Nakazato](https://orcid.org/0000-0002-0706-2867) |
 | 16:10 | 10 min | **CHALLENGES & INNOVATIONS:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.czw1btq7lur3) | |
 | 16:20 | 10 min | **CHALLENGES & INNOVATIONS:** Discussion | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.6x03livu4fcf) | |
-| 16:30 | 10 min | **Final Thoughts** | [_add title_](insert_link) | [Gail Kampmeier](https://orcid.org/0000-0002-5178-4170) |
+| 16:30 | 10 min | **Final Thoughts** | Collaboration - How does an entomologist get involved in biodiversity informatics? | [Gail Kampmeier](https://orcid.org/0000-0002-5178-4170) |
 | 16:40 | 20 min | **Wrap-up** | | |
 
 _Please feel free to edit the table above where necessary!_
