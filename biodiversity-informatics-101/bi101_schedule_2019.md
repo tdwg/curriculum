@@ -16,12 +16,13 @@ Time: 9:00 - 17:00
 [Biodiv 101 Group Notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit?usp=sharing)  
 [Presentations and Resources Folder](https://drive.google.com/drive/folders/13savu1CMfjNTc_XeNl_ZAEyEEsakJI4Y)  
 [Further Biodiv Informatics 101 Conversations](https://github.com/tdwg/curriculum/issues/5)  
+Do you have your [ORCID](https://orcid.org/) ID?
 <!---[Post Workshop Survey](http://bit.ly/biodiv101survey)-->
 
 ## Schedule for Biodiversity Informatics 101 Workshop
 ### _Biodiversity_Next, Leiden, 2019-10-21_
 
-| Time | Length | Topic | Title | Presenter |
+| Time | Length | Topic | Title | Presenter  w/ [ORCID](https://orcid.org/) |
 | --- | --- | --- | --- | --- |
 | 09:00 | 10 min | **Welcome** | [_add title_](insert_link) | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 09:10 | 20 min | **Introduction to Biodiversity Informatics** | [_add title_](insert_link) | [James Macklin](https://orcid.org/0000-0001-9508-1349) |
