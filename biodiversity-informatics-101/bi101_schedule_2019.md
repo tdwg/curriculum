@@ -54,7 +54,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 13:40 | 10 min | **COMMUNITY:** Global South | _Biodiversity Data in Uruguay: A Long Way to Go_ | [Florencia Grattarola](https://orcid.org/0000-0001-8282-5732) |
 | 13:50 | 10 min | **COMMUNITY:** Eco Ed | [_add title_](insert_link) | [Chantal Huijbers](https://orcid.org/0000-0001-5206-3415) |
 | 14:00 | 5 min | **COMMUNITY:** GBIF BID | [_add title_](insert_link) | Sabastian Wirsiy Yunkavi |
-| 14:05 | 5 min | **COMMUNITY:** Observation Networks, NEON | [_NEON: Data, samples, & infrastructure to understand changing ecosystems_](https://drive.google.com/open?id=1nzsvpx_p451_2PUKBoUfffnXC5t0Q05c) | [Christine Laney](https://orcid.org/0000-0002-4944-2083), [Kate Thibault](https://orcid.org/0000-0003-3477-6424) |
+| 14:05 | 5 min | **COMMUNITY:** Observation Networks, NEON | _NEON: Data, samples, & infrastructure to understand changing ecosystems_ | [Christine Laney](https://orcid.org/0000-0002-4944-2083), [Kate Thibault](https://orcid.org/0000-0003-3477-6424) |
 | 14:10 | 5 min | **COMMUNITY:** Citizen Science | _Citizen Science: Public participation in Biodiversity Monitoring_ | [Sofie Meeus](https://orcid.org/0000-0003-0715-8647) |
 | 14:15 | 5 min | **COMMUNITY:** BHL | [_add title_](insert_link) | David Iggulden |
 | 14:20 | 10 min | **COMMUNITY:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.brzmloq710jg) | |
