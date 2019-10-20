@@ -38,7 +38,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 11:10 | 10 min | **DATA:** Policies for Sharing | [_add title_](insert_link) | [Brenda Daly](https://orcid.org/0000-0002-3732-8339) |
 | 11:20 | 10 min | **DATA:** All Things Wiki | [_add title_](insert_link) | [Matthias Dillen](https://orcid.org/0000-0002-3973-1252) |
 | 11:30 | 10 min | **DATA:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.quf0g091e9ez) | |
-| 11:40 | 5 min | **TOOLS:** Overview  [Your Contributions](https://drive.google.com/open?id=1D5AHvyN8vhB77vLC1zlAB848PWzM-a6NTiU5OxN6VBk) | [_add title_](insert_link) | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
+| 11:40 | 5 min | **TOOLS:** Overview   [Your Contributions](https://drive.google.com/open?id=1D5AHvyN8vhB77vLC1zlAB848PWzM-a6NTiU5OxN6VBk) | [_add title_](insert_link) | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 11:45 | 45 min | **TOOLS:** Demo Fair | | |
 | | | | _Data Help Desk_ | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | | | | _GBIF Integrated Publishing Toolkit_ | [Rukaya Johaadien](https://orcid.org/0000-0002-2857-2276) |
