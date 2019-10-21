@@ -24,14 +24,14 @@ Do you have your [ORCID](https://orcid.org/) ID?
 
 | Time | Length | Topic | Title | Presenter  w/ [ORCID](https://orcid.org/) |
 | --- | --- | --- | --- | --- |
-| 09:00 | 10 min | **Welcome** | [_add title_](insert_link) | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
+| 09:00 | 10 min | **Welcome** | | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 09:10 | 20 min | **Introduction to Biodiversity Informatics** | _Biodiversity Informatics 101: Setting the Stage_ | [James Macklin](https://orcid.org/0000-0001-9508-1349) |
-| 09:30 | 10 min | **DATA:** Overview | _Data Overview_ | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
-| 09:40 | 10 min | **DATA:** Standards | _Data standards: What are they, what can they do for me, and where do they come from?_ | [Falko Glöckler](https://orcid.org/0000-0002-7127-2738), [Marieke Petersen](https://orcid.org/0000-0001-8666-1931) |
-| 09:50 | 10 min | **DATA:** Georeferencing | [_add title_](insert_link) | [Fhatani Ranwashe](https://orcid.org/0000-0003-0466-4085) |
+| 09:30 | 10 min | **DATA:** Overview | _Data Overview_ ([notes](http://bit.ly/bi101data)) | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
+| 09:40 | 10 min | **DATA:** Standards | _Data standards: What are they, what can they do for me, and where do they come from?_ | [Marieke Petersen](https://orcid.org/0000-0001-8666-1931), [Falko Glöckler](https://orcid.org/0000-0002-7127-2738) |
+| 09:50 | 10 min | **DATA:** Georeferencing | _Georeferencing and Data Quality_ | [Fhatani Ranwashe](https://orcid.org/0000-0003-0466-4085) |
 | 10:00 | 5 min | **DATA:** Data Curation | _Research Data Management_ | [Falko Glöckler](https://orcid.org/0000-0002-7127-2738) |
 | 10:05 | 5 min | **DATA:** Essential Biodiversity Variables | _Essential Biodiversity Variables (EBVs)_ | [Kate Thibault](https://orcid.org/0000-0003-3477-6424), [Rob Guralnick](https://orcid.org/0000-0001-6682-1504) |
-| 10:10 | 5 min | **DATA:** Digitization/Media | [_add title_](insert_link) | [Matt Woodburn](https://orcid.org/0000-0001-6496-1423), [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
+| 10:10 | 5 min | **DATA:** Digitization/Media | _Digitisation and Imaging_ | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842), [Matt Woodburn](https://orcid.org/0000-0001-6496-1423) |
 | 10:15 | 15 min | **DATA:** Discussion | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.6tthbx37zmvx) | |
 | 10:30 | 30 min | 30 MINUTE BREAK | | |
 | 11:00 | 10 min | **DATA:** Aggregators | _Data Aggregators: A Data Provider's Perspective_ | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
