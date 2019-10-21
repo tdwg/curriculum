@@ -3,7 +3,7 @@ More and more biodiversity data are coming online everyday and give all of us ne
 
 <!---<img src="https://github.com/ekrimmel/curriculum/blob/master/biodiversity-informatics-101/documents/ParticipantsByCountry2.png" width="500">-->
 
-![Participants By Country|1533x947,20%](https://github.com/ekrimmel/curriculum/blob/master/biodiversity-informatics-101/documents/ParticipantsByCountry2.png)
+![Participants By Country|1533x947,20%](https://github.com/ekrimmel/curriculum/blob/master/biodiversity-informatics-101/documents/2019-10-21_ParticipantsByCountry2.png)
 
 The Conference Theme is **Building a global infrastructure for biodiversity data. Together.** Organizers Holly Little, Laura Russell, Deborah Paul, and Erica Krimmel welcome this unique opportunity to bring representatives from 30 countries together. Workshops like this are rare and give us all a chance to expand our capabilities to act local and global. We give thanks to each of our presenters and to all our participants for joining us as we embrace the concept of better data > better science > better policies.
 
