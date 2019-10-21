@@ -44,7 +44,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | | | | _GBIF Integrated Publishing Toolkit_ | [Rukaya Johaadien](https://orcid.org/0000-0002-2857-2276) |
 | | | | _TaxonWorks_ | [Matt Yoder](https://orcid.org/0000-0002-5640-5491) |
 | | | | _OpenRefine_ | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
-| | | | _Exploring Data with APIs_ | [Amanda Devine](https://orcid.org/0000-0001-8928-8749) |
+| | | | _[Exploring Data with APIs](https://github.com/amdevine/bdn-python-apis)_ | [Amanda Devine](https://orcid.org/0000-0001-8928-8749) |
 | | | | _Exploring Data in Aggregators via Portals_ | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
 | | | | _Biodiversity and Climate Change Virtual Lab (ecocloud)_ | Sarah Richmond |
 | | | | _Georeferencing Tools & Techniques_ | [Fhatani Ranwashe](https://orcid.org/0000-0003-0466-4085), [Erica Krimmel](https://orcid.org/0000-0003-3192-0080) |
