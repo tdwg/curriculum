@@ -28,7 +28,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 09:00 | 10 min | **Welcome** | | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 09:10 | 20 min | **Introduction to Biodiversity Informatics** | _Biodiversity Informatics 101: Setting the Stage_ | [James Macklin](https://orcid.org/0000-0001-9508-1349) |
 | 09:30 | 10 min | **DATA:** Overview | _Data Overview_ ([notes](http://bit.ly/bi101data)) | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
-| 09:40 | 10 min | **DATA:** Standards | _Data standards: What are they, what can they do for me, and where do they come from?_ | [Marieke Petersen](https://orcid.org/0000-0001-8666-1931), [Falko Glöckler](https://orcid.org/0000-0002-7127-2738) |
+| 09:40 | 10 min | **DATA:** Standards | _Data standards: What are they, what can they do for me, and where do they come from?_ | [Mareike Petersen](https://orcid.org/0000-0001-8666-1931), [Falko Glöckler](https://orcid.org/0000-0002-7127-2738) |
 | 09:50 | 10 min | **DATA:** Georeferencing | _Georeferencing and Data Quality_ | [Fhatani Ranwashe](https://orcid.org/0000-0003-0466-4085) |
 | 10:00 | 5 min | **DATA:** Data Curation | _Research Data Management_ | [Falko Glöckler](https://orcid.org/0000-0002-7127-2738) |
 | 10:05 | 5 min | **DATA:** Essential Biodiversity Variables | _Essential Biodiversity Variables (EBVs)_ | [Kate Thibault](https://orcid.org/0000-0003-3477-6424), [Rob Guralnick](https://orcid.org/0000-0001-6682-1504) |
