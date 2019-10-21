@@ -17,7 +17,7 @@ Time: 9:00 - 17:00
 [Presentations and Resources Folder](https://drive.google.com/drive/folders/13savu1CMfjNTc_XeNl_ZAEyEEsakJI4Y)  
 [Further Biodiv Informatics 101 Conversations](https://github.com/tdwg/curriculum/issues/5)  
 Do you have your [ORCID](https://orcid.org/) ID?
-<!---[Post Workshop Survey](http://bit.ly/biodiv101survey)-->
+[Post Workshop Survey](http://bit.ly/biodiv101survey)
 
 ## Schedule for Biodiversity Informatics 101 Workshop
 ### _Biodiversity_Next, Leiden, 2019-10-21_
