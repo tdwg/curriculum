@@ -53,7 +53,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 13:30 | 10 min | **COMMUNITY:** Overview | _Community Introduction_ | [Henry Engledow](https://orcid.org/0000-0002-0779-8006) |
 | 13:40 | 10 min | **COMMUNITY:** Global South | _Biodiversity Data in Uruguay: A Long Way to Go_ | [Florencia Grattarola](https://orcid.org/0000-0001-8282-5732) |
 | 13:50 | 10 min | **COMMUNITY:** ecoEd | _ecoEd: Training and engagement for biodiversity informatics infrastructures in Australia_ | [Chantal Huijbers](https://orcid.org/0000-0001-5206-3415) |
-| 14:00 | 5 min | **COMMUNITY:** GBIF BID | _BIDImpact in Raising Capacity of Research Institutions in Cameroon_ | Sabastian Wirsiy Yunkavi |
+| 14:00 | 5 min | **COMMUNITY:** GBIF BID | _BIDImpact in Raising Capacity of Research Institutions in Cameroon_ | Sabastian Wirsiy Yunkavi, Kate Igenloff |
 | 14:05 | 5 min | **COMMUNITY:** Observation Networks, NEON | _NEON: Data, samples, & infrastructure to understand changing ecosystems_ | [Christine Laney](https://orcid.org/0000-0002-4944-2083), [Kate Thibault](https://orcid.org/0000-0003-3477-6424) |
 | 14:10 | 5 min | **COMMUNITY:** Citizen Science | _Citizen Science: Public participation in Biodiversity Monitoring_ | [Sofie Meeus](https://orcid.org/0000-0003-0715-8647) |
 | 14:15 | 5 min | **COMMUNITY:** BHL | _Free & Open Access to Biodiversity Literature: Update on the Biodiversity Heritage Library_ | David Iggulden |
