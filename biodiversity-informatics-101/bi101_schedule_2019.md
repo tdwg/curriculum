@@ -14,7 +14,8 @@ Time: 9:00 - 17:00
 
 ### Important Links
 [Biodiv 101 Group Notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit?usp=sharing)  
-[Presentations and Resources Folder](https://drive.google.com/drive/folders/13savu1CMfjNTc_XeNl_ZAEyEEsakJI4Y)  
+[Presentations and Resources Folder](https://drive.google.com/drive/folders/13savu1CMfjNTc_XeNl_ZAEyEEsakJI4Y) 
+[List of Participants](http://bit.ly/biodiv101people) 
 [Further Biodiv Informatics 101 Conversations](https://github.com/tdwg/curriculum/issues/5)  
 Do you have your [ORCID](https://orcid.org/) ID?  
 [Post Workshop Survey](http://bit.ly/biodiv101survey)
@@ -62,7 +63,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 14:35 | 25 min | **COMMUNITY:** Unconference | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.awela4svc1qv) | |
 | 15:00 | 30 min | 30 MINUTE BREAK | | |
 | 15:30 | 10 min | **CHALLENGES & INNOVATIONS:** Overview | [_Along the path to the holy grail(s) of biodiversity informatics_](https://mjy.github.io/presentations/2019/Biodiversity101WorkshopLeiden/index.html) | [Matt Yoder](https://orcid.org/0000-0002-5640-5491) |
-| 15:40 | 10 min | **CHALLENGES & INNOVATIONS:** Machine Learning and Automation | [_add title_](insert_link) | [Matt Woodburn](https://orcid.org/0000-0001-6496-1423), [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
+| 15:40 | 10 min | **CHALLENGES & INNOVATIONS:** Machine Learning and Automation | _Machine Learning & Automation_ | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842), [Matt Woodburn](https://orcid.org/0000-0001-6496-1423) |
 | 15:50 | 10 min | **CHALLENGES & INNOVATIONS:** An Engineer's Point of View | _Climbing Out of The Box: different thinking with examples_ | [Mark Hereld](https://orcid.org/0000-0002-0268-2880) |
 | 16:00 | 10 min | **CHALLENGES & INNOVATIONS:** Semantic Technologies | _3 Steps to Using Semantic Web Technologies_ | [Takeru Nakazato](https://orcid.org/0000-0002-0706-2867) |
 | 16:10 | 10 min | **CHALLENGES & INNOVATIONS:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.czw1btq7lur3) | |
