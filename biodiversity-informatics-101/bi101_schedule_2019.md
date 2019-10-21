@@ -42,7 +42,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 11:45 | 45 min | **TOOLS:** Demo Fair | | |
 | | | | _Data Help Desk_ | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | | | | _GBIF Integrated Publishing Toolkit_ | [Rukaya Johaadien](https://orcid.org/0000-0002-2857-2276) |
-| | | | _TaxonWorks_ | [Matt Yoder](https://orcid.org/0000-0002-5640-5491) |
+| | | | _[TaxonWorks](http:/taxonworks.org)_ | [Matt Yoder](https://orcid.org/0000-0002-5640-5491) |
 | | | | _OpenRefine_ | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
 | | | | _[Exploring Data with APIs](https://github.com/amdevine/bdn-python-apis)_ | [Amanda Devine](https://orcid.org/0000-0001-8928-8749) |
 | | | | _Exploring Data in Aggregators via Portals_ | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
@@ -61,7 +61,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 14:30 | 5 min | **COMMUNITY:** Community Building and Unconferences | | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 14:35 | 25 min | **COMMUNITY:** Unconference | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.awela4svc1qv) | |
 | 15:00 | 30 min | 30 MINUTE BREAK | | |
-| 15:30 | 10 min | **CHALLENGES & INNOVATIONS:** Overview | [_add title_](insert_link) | [Matt Yoder](https://orcid.org/0000-0002-5640-5491) |
+| 15:30 | 10 min | **CHALLENGES & INNOVATIONS:** Overview | [_Along the path to the holy grail(s) of biodiversity informatics_](https://mjy.github.io/presentations/2019/Biodiversity101WorkshopLeiden/index.html) | [Matt Yoder](https://orcid.org/0000-0002-5640-5491) |
 | 15:40 | 10 min | **CHALLENGES & INNOVATIONS:** Machine Learning and Automation | [_add title_](insert_link) | [Matt Woodburn](https://orcid.org/0000-0001-6496-1423), [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
 | 15:50 | 10 min | **CHALLENGES & INNOVATIONS:** An Engineer's Point of View | _Climbing Out of The Box: different thinking with examples_ | [Mark Hereld](https://orcid.org/0000-0002-0268-2880) |
 | 16:00 | 10 min | **CHALLENGES & INNOVATIONS:** Semantic Technologies | _3 Steps to Using Semantic Web Technologies_ | [Takeru Nakazato](https://orcid.org/0000-0002-0706-2867) |
