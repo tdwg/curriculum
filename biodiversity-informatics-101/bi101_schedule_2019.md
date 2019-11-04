@@ -39,7 +39,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 11:00 | 10 min | **DATA:** Aggregators | _[Data Aggregators: A Data Provider's Perspective](documents/2019-10-21_09_BI101-data-aggregators_karim.pdf)_ | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
 | 11:10 | 10 min | **DATA:** Policies for Sharing | _[Policies for Data Sharing](documents/2019-10-21_10_BI101-policies-for-data-sharing_daly.pdf)_ | [Brenda Daly](https://orcid.org/0000-0002-3732-8339) |
 | 11:20 | 10 min | **DATA:** All Things Wiki | _[A Wiki World](documents/2019-10-21_11_BI101-wiki-date_dillen.pdf)_ | [Matthias Dillen](https://orcid.org/0000-0002-3973-1252) |
-| 11:30 | 10 min | **DATA:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.quf0g091e9ez) | |
+| 11:30 | 10 min | **DATA:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.quf0g091e9ez)<br/>Rwanda: Rwanda Biomedical Center |[Prosper Karame](https://orcid.org/0000-0003-3130-6136) |
 | 11:40 | 5 min | **TOOLS:** Overview | [Your Contributions](https://drive.google.com/open?id=1D5AHvyN8vhB77vLC1zlAB848PWzM-a6NTiU5OxN6VBk) | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 11:45 | 45 min | **TOOLS:** Demo Fair | | |
 | | | | _Data Help Desk_ | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
