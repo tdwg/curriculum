@@ -59,7 +59,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 14:05 | 5 min | **COMMUNITY:** Observation Networks, NEON | _[NEON: Data, samples, & infrastructure to understand changing ecosystems](documents/2019-10-21_16_BI101_NEON_laney.pdf)_ | [Christine Laney](https://orcid.org/0000-0002-4944-2083), [Kate Thibault](https://orcid.org/0000-0003-3477-6424) |
 | 14:10 | 5 min | **COMMUNITY:** Citizen Science | _[Citizen Science: Public participation in Biodiversity Monitoring](documents/2019-10-21_17_BI101_citizen-science_meeus.pdf)_ | [Sofie Meeus](https://orcid.org/0000-0003-0715-8647) |
 | 14:15 | 5 min | **COMMUNITY:** BHL | _[Free & Open Access to Biodiversity Literature: Update on the Biodiversity Heritage Library](documents/2019-10-21_18_BI101-BHL_iggulden.pdf)_ | David Iggulden |
-| 14:20 | 10 min | **COMMUNITY:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.brzmloq710jg) | |
+| 14:20 | 10 min | **COMMUNITY:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.brzmloq710jg)<br/>Ease of Using Wiki and Wikipedia| Laurence Livermore |
 | 14:30 | 5 min | **COMMUNITY:** Community Building and Unconferences | | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 14:35 | 25 min | **COMMUNITY:** Unconference | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.awela4svc1qv) | |
 | 15:00 | 30 min | 30 MINUTE BREAK | | |
