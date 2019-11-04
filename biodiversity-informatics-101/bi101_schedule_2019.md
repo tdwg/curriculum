@@ -26,7 +26,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 
 | Time | Length | Topic | Title | Presenter  w/ [ORCID](https://orcid.org/) |
 | --- | --- | --- | --- | --- |
-| 09:00 | 10 min | **Welcome** | [Welcome to Biodiversity Informatics 101: Preparing for Biodiversity Next and Beyond](documents/2019-10-21_01_BI101-welcome_little-paul.pdf)| [Deb Paul](https://orcid.org/0000-0003-2639-7520), [Holly Little](https://orcid.org/0000-0001-7909-4166) |
+| 09:00 | 10 min | **Welcome** | _[Welcome to Biodiversity Informatics 101: Preparing for Biodiversity Next and Beyond](documents/2019-10-21_01_BI101-welcome_little-paul.pdf)_| [Deb Paul](https://orcid.org/0000-0003-2639-7520), [Holly Little](https://orcid.org/0000-0001-7909-4166) |
 | 09:10 | 20 min | **Introduction to Biodiversity Informatics** | _[Biodiversity Informatics 101: Setting the Stage](documents/2019-10-21_02_BI101-intro-to-biodiv-informatics_macklin.pdf)_ | [James Macklin](https://orcid.org/0000-0001-9508-1349) |
 | 09:30 | 10 min | **DATA:** Overview | _[Data Overview](documents/2019-10-21_03_BI101-data-overview_little.pdf)_ ([notes](http://bit.ly/bi101data)) | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
 | 09:40 | 10 min | **DATA:** Standards | _[Data standards: What are they, what can they do for me, and where do they come from?](documents/2019-10-21_04_BI101-data-standards_petersen-gloeckler.pdf)_ | [Mareike Petersen](https://orcid.org/0000-0001-8666-1931), [Falko Glöckler](https://orcid.org/0000-0002-7127-2738) |
@@ -39,7 +39,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 11:00 | 10 min | **DATA:** Aggregators | _[Data Aggregators: A Data Provider's Perspective](documents/2019-10-21_09_BI101-data-aggregators_karim.pdf)_ | [Talia Karim](https://orcid.org/0000-0001-6514-963X) |
 | 11:10 | 10 min | **DATA:** Policies for Sharing | _[Policies for Data Sharing](documents/2019-10-21_10_BI101-policies-for-data-sharing_daly.pdf)_ | [Brenda Daly](https://orcid.org/0000-0002-3732-8339) |
 | 11:20 | 10 min | **DATA:** All Things Wiki | _[A Wiki World](documents/2019-10-21_11_BI101-wiki-date_dillen.pdf)_ | [Matthias Dillen](https://orcid.org/0000-0002-3973-1252) |
-| 11:30 | 10 min | **DATA:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.quf0g091e9ez)<br/>Rwanda: Rwanda Biomedical Center |[Prosper Karame](https://orcid.org/0000-0003-3130-6136) |
+| 11:30 | 10 min | **DATA:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.quf0g091e9ez)<br/>_Rwanda: Rwanda Biomedical Center_ |[Prosper Karame](https://orcid.org/0000-0003-3130-6136) |
 | 11:40 | 5 min | **TOOLS:** Overview | [Your Contributions](https://drive.google.com/open?id=1D5AHvyN8vhB77vLC1zlAB848PWzM-a6NTiU5OxN6VBk) | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 11:45 | 45 min | **TOOLS:** Demo Fair | | |
 | | | | _Data Help Desk_ | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
@@ -59,7 +59,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 14:05 | 5 min | **COMMUNITY:** Observation Networks, NEON | _[NEON: Data, samples, & infrastructure to understand changing ecosystems](documents/2019-10-21_16_BI101_NEON_laney.pdf)_ | [Christine Laney](https://orcid.org/0000-0002-4944-2083), [Kate Thibault](https://orcid.org/0000-0003-3477-6424) |
 | 14:10 | 5 min | **COMMUNITY:** Citizen Science | _[Citizen Science: Public participation in Biodiversity Monitoring](documents/2019-10-21_17_BI101_citizen-science_meeus.pdf)_ | [Sofie Meeus](https://orcid.org/0000-0003-0715-8647) |
 | 14:15 | 5 min | **COMMUNITY:** BHL | _[Free & Open Access to Biodiversity Literature: Update on the Biodiversity Heritage Library](documents/2019-10-21_18_BI101-BHL_iggulden.pdf)_ | David Iggulden |
-| 14:20 | 10 min | **COMMUNITY:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.brzmloq710jg)<br/>Ease of Using Wiki and Wikipedia| Laurence Livermore |
+| 14:20 | 10 min | **COMMUNITY:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.brzmloq710jg)<br/>_Ease of Using Wiki and Wikipedia_| Laurence Livermore |
 | 14:30 | 5 min | **COMMUNITY:** Community Building and Unconferences | | [Deb Paul](https://orcid.org/0000-0003-2639-7520) |
 | 14:35 | 25 min | **COMMUNITY:** Unconference | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.awela4svc1qv) | |
 | 15:00 | 30 min | 30 MINUTE BREAK | | |
@@ -67,7 +67,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 | 15:40 | 10 min | **CHALLENGES & INNOVATIONS:** Machine Learning and Automation | _[Machine Learning & Automation](documents/2019-10-21_21_BI101-machine-learning-automation_livermore.pdf)_ | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842), [Matt Woodburn](https://orcid.org/0000-0001-6496-1423) |
 | 15:50 | 10 min | **CHALLENGES & INNOVATIONS:** An Engineer's Point of View | _[Climbing Out of The Box: different thinking with examples](documents/2019-10-21_22_BI101-climbing-out-of-the-box_hereld.pdf)_ | [Mark Hereld](https://orcid.org/0000-0002-0268-2880) |
 | 16:00 | 10 min | **CHALLENGES & INNOVATIONS:** Semantic Technologies | _[3 Steps to Using Semantic Web Technologies](documents/2019-10-21_23_BI101-semantic-web_nakazato.pdf)_ | [Takeru Nakazato](https://orcid.org/0000-0002-0706-2867) |
-| 16:10 | 10 min | **CHALLENGES & INNOVATIONS:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.czw1btq7lur3)<br/>Working with OBIS/GBIF/iNat/BHL data | [Claude Nozéres](https://orcid.org/0000-0002-9779-9300) |
+| 16:10 | 10 min | **CHALLENGES & INNOVATIONS:** 2-minute Stand-ups | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.czw1btq7lur3)<br/>_Working with OBIS/GBIF/iNat/BHL data_ | [Claude Nozéres](https://orcid.org/0000-0002-9779-9300) |
 | 16:20 | 10 min | **CHALLENGES & INNOVATIONS:** Discussion | [notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit#heading=h.6x03livu4fcf) | |
 | 16:30 | 10 min | **Final Thoughts** | _[Collaboration - How does an entomologist get involved in biodiversity informatics?](documents/2019-10-21_24_BI101-collaboration_kampmeier.pdf)_ | [Gail Kampmeier](https://orcid.org/0000-0002-5178-4170) |
 | 16:40 | 20 min | **Wrap-up** | ([presentation](documents/2019-10-21_25_BI101-wrapup_little-paul.pdf)) | [Deb Paul](https://orcid.org/0000-0003-2639-7520), [Holly Little](https://orcid.org/0000-0001-7909-4166) |
