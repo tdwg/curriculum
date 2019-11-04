@@ -15,7 +15,8 @@ Time: 9:00 - 17:00
 ### Important Links
 [Biodiv 101 Group Notes](https://docs.google.com/document/d/16H52sM0j-orfI8b36ccURJeawUBYUCfb_6X-th4NIiY/edit?usp=sharing)  
 [Presentations and Resources Folder](https://drive.google.com/drive/folders/13savu1CMfjNTc_XeNl_ZAEyEEsakJI4Y)  
-[List of Participants](http://bit.ly/biodiv101people)   
+[List of Participants](http://bit.ly/biodiv101people) google sheet version  
+[List of Participants](documents/bnBI101_participantList.pdf) pdf version  
 [Further Biodiv Informatics 101 Conversations](https://github.com/tdwg/curriculum/issues/5)  
 Do you have your [ORCID](https://orcid.org/) ID?  
 [Post Workshop Survey](http://bit.ly/biodiv101survey) 
