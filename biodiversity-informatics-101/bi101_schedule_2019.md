@@ -25,7 +25,7 @@ Do you have your [ORCID](https://orcid.org/) ID?
 
 | Time | Length | Topic | Title | Presenter  w/ [ORCID](https://orcid.org/) |
 | --- | --- | --- | --- | --- |
-| 09:00 | 10 min | **Welcome** | ([Welcome to Biodiversity Informatics 101: Preparing for Biodiversity Next and Beyond](documents/2019-10-21_01_BI101-welcome_little-paul.pdf)| [Deb Paul](https://orcid.org/0000-0003-2639-7520), [Holly Little](https://orcid.org/0000-0001-7909-4166) |
+| 09:00 | 10 min | **Welcome** | [Welcome to Biodiversity Informatics 101: Preparing for Biodiversity Next and Beyond](documents/2019-10-21_01_BI101-welcome_little-paul.pdf)| [Deb Paul](https://orcid.org/0000-0003-2639-7520), [Holly Little](https://orcid.org/0000-0001-7909-4166) |
 | 09:10 | 20 min | **Introduction to Biodiversity Informatics** | _[Biodiversity Informatics 101: Setting the Stage](documents/2019-10-21_02_BI101-intro-to-biodiv-informatics_macklin.pdf)_ | [James Macklin](https://orcid.org/0000-0001-9508-1349) |
 | 09:30 | 10 min | **DATA:** Overview | _[Data Overview](documents/2019-10-21_03_BI101-data-overview_little.pdf)_ ([notes](http://bit.ly/bi101data)) | [Holly Little](https://orcid.org/0000-0001-7909-4166) |
 | 09:40 | 10 min | **DATA:** Standards | _[Data standards: What are they, what can they do for me, and where do they come from?](documents/2019-10-21_04_BI101-data-standards_petersen-gloeckler.pdf)_ | [Mareike Petersen](https://orcid.org/0000-0001-8666-1931), [Falko Glöckler](https://orcid.org/0000-0002-7127-2738) |
